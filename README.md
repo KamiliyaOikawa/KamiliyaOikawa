@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm KamiliyaOikawa from Kyrgyzstan<br><br>- 🔭 I’m working as android devoloper</p>
+<p align="left">I'm KamiliyaOikawa from Kyrgyzstan<br><br>- 🔭 I’m working as fullstack devoloper</p>
 
 ###
 
